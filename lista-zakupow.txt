@@ -1,2 +1,3 @@
 Chleb	4.00
 Jajka	6.50
+Masło	8.50

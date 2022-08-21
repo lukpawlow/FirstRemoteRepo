@@ -1,0 +1,1 @@
+to jest kod z lokala transa
